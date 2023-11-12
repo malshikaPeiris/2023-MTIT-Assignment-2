@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\malshika\\Downloads\\4th year 1st semester\\MTIT\\ass 3\\MTIT- 011\\MTIT-011\\Assignment 3\\Assignment 3\\MTIT.Supplier\\MTIT.Transport\\MTIT.Transport.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\malshika\\Downloads\\4th year 1st semester\\MTIT\\ass 3\\MTIT- 011\\MTIT-011\\Assignment 3\\Assignment 3\\MTIT.Supplier\\MTIT.Transport\\MTIT.Transport.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\malshika\\Downloads\\4th year 1st semester\\MTIT\\ass 3\\MTIT- 011\\MTIT-011\\Assignment 3\\Assignment 3\\MTIT.Supplier\\MTIT.Transport\\MTIT.Transport.csproj",
+        "projectName": "MTIT.Transport",
+        "projectPath": "C:\\Users\\malshika\\Downloads\\4th year 1st semester\\MTIT\\ass 3\\MTIT- 011\\MTIT-011\\Assignment 3\\Assignment 3\\MTIT.Supplier\\MTIT.Transport\\MTIT.Transport.csproj",
+        "packagesPath": "C:\\Users\\malshika\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\malshika\\Downloads\\4th year 1st semester\\MTIT\\ass 3\\MTIT- 011\\MTIT-011\\Assignment 3\\Assignment 3\\MTIT.Supplier\\MTIT.Transport\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\malshika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

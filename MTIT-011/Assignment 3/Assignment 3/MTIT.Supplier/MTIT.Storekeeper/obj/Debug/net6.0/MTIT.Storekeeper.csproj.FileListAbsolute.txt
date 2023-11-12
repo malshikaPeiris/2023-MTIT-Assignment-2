@@ -1,0 +1,64 @@
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\appsettings.Development.json
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\appsettings.json
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\MTIT.Storekeeper.exe
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\MTIT.Storekeeper.deps.json
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\MTIT.Storekeeper.runtimeconfig.json
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\MTIT.Storekeeper.dll
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\MTIT.Storekeeper.pdb
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.csproj.AssemblyReference.cache
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.GeneratedMSBuildEditorConfig.editorconfig
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.AssemblyInfoInputs.cache
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.AssemblyInfo.cs
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.csproj.CoreCompileInputs.cache
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.MvcApplicationPartsAssemblyInfo.cs
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.MvcApplicationPartsAssemblyInfo.cache
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\staticwebassets\msbuild.MTIT.Storekeeper.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\staticwebassets\msbuild.build.MTIT.Storekeeper.props
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MTIT.Storekeeper.props
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MTIT.Storekeeper.props
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\staticwebassets.build.json
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\staticwebassets.development.json
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\scopedcss\bundle\MTIT.Storekeeper.styles.css
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.csproj.CopyComplete
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.dll
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\refint\MTIT.Storekeeper.dll
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.pdb
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.genruntimeconfig.cache
+D:\SLIIT\YEAR 4\Semester 1 modules\MTIT\Assignments\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\ref\MTIT.Storekeeper.dll
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\appsettings.json
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\MTIT.Storekeeper.exe
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\MTIT.Storekeeper.deps.json
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\MTIT.Storekeeper.runtimeconfig.json
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\MTIT.Storekeeper.dll
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\MTIT.Storekeeper.pdb
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.csproj.AssemblyReference.cache
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.AssemblyInfoInputs.cache
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.AssemblyInfo.cs
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.csproj.CoreCompileInputs.cache
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\staticwebassets\msbuild.MTIT.Storekeeper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\staticwebassets\msbuild.build.MTIT.Storekeeper.props
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MTIT.Storekeeper.props
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MTIT.Storekeeper.props
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\scopedcss\bundle\MTIT.Storekeeper.styles.css
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.csproj.CopyComplete
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.dll
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\refint\MTIT.Storekeeper.dll
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.pdb
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\MTIT.Storekeeper.genruntimeconfig.cache
+C:\Users\malshika\Downloads\4th year 1st semester\MTIT\ass 3\MTIT- 011\MTIT-011\Assignment 3\Assignment 3\MTIT.Supplier\MTIT.Storekeeper\obj\Debug\net6.0\ref\MTIT.Storekeeper.dll
